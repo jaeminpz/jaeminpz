@@ -8,7 +8,7 @@
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
-          <img src="https://img.shields.io/badge/Apache%2Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=white">
+          <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=white">
           <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
